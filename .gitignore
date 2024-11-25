@@ -1,0 +1,28 @@
+.env
+__pycache__/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+.vscode
+# Translations
+*.mo
+
+*.xlsx 
+*.xls 
+*.csv 
+*.pdf 
+*.doc 
+*.docx 
+*.html
+*.log
+*.pot
+centralrepo-aba6b4b4b90e.json
+temp.py
